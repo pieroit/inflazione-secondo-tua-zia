@@ -1,4 +1,4 @@
-# L' Inflazione secondo tua zia
+# L' Inflazione secondo tua zia 👵
 
 Il governo e i matusa ci dicono che l'inflazione è circa all' X, ma le nostre zie hanno un'esperienza ben diversa quando tornano scalze dal supermercato.
 
