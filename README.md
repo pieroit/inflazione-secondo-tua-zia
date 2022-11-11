@@ -39,11 +39,11 @@ You just need to install [Docker](https://docs.docker.com/get-docker/) and [Dock
 
 - When you start a new project, just download and extract this repo on your machine, or clone it from terminal:
 
-        git clone https://github.com/pieroit/machine-learning-jupyterlab-docker.git
+        git clone https://github.com/pieroit/inflazione-secondo-tua-zia.git
 
 - Jump into the folder
 
-        cd machine-learning-jupyterlab-docker
+        cd inflazione-secondo-tua-zia
 
 - Launch workstation. The first time it will take a while since docker must build the image, but after that you will be on board in a matter of seconds
 
