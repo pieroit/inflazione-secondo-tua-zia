@@ -5,6 +5,7 @@ RUN apt-get update -y & apt-get install -y git
 RUN pip install -U pip
 RUN pip install \
     scikit-learn \
+    lxml \
     pandas \
     seaborn \
     jupyterlab \
